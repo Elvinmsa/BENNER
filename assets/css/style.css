@@ -1,0 +1,35 @@
+h1{
+    text-align: center; 
+}
+.b1{
+    background-color: chocolate;
+    width: 40%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#banner1{
+    display: flex;
+    justify-content: center;
+}
+
+p.one{
+    color: green;
+    text-indent: 180px;
+    word-spacing: 20px;
+}
+p.two{
+    color: chocolate;
+}
+p.three{
+    color: chocolate;
+}
+.b2{
+    background-color:navajowhite;
+    width: 40%;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+#banner2{
+    display: flex;
+    justify-content: center;
+}
